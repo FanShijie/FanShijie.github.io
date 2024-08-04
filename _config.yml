@@ -25,7 +25,7 @@ author:
   name             : "Fan Shijie（樊世杰）"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  # location         : "Earth"
   employer         : "Red Brick University"
   uri              : https://fanshijie.github.io # URL
   email            : "fanshijie0524@163.com，fan_shijie888@163.com，2630075535@qq.com" 
@@ -33,44 +33,44 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  # impactstory      : # URL
   orcid            : https://orcid.org/0009-0007-4245-3656  #"http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  # semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  # bitbucket        : # Username - Update with your username on the site
+  # codepen          : # Username
+  # dribbble         : # Username
   github           : "https://github.com/FanShijie" #"academicpages"
   kaggle           : "https://www.kaggle.com/thanosx123" # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # facebook         : # Username
+  # flickr           : # Username
+  # foursquare       : # Username
+  # goodreads        : # Username
+  # google_plus      : # Username
+  # keybase          : # Username
+  # instagram        : # Username
+  # lastfm           : # Username
+  # linkedin         : # Username
+  # mastodon         : # URL
+  # medium           : # URL
+  # pinterest        : # Username
+  # soundcloud       : # Username
+  # steam            : # Username
+  # telegram         : # URL
+  # tumblr           : # Username
+  # twitter          : # Username for X / Twitter
+  # vine             : # Username
+  # weibo            : # Username
+  # wikipedia        : # Username
+  # xing             : # Username
+  # youtube          : # Username
   zhihu            : https://www.zhihu.com/people/Shijie  # URL
 
 
