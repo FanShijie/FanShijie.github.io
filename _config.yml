@@ -12,9 +12,9 @@ title                    : "Fan Shijie（樊世杰） "
 title_separator          : "-"
 name                     : &name "Fan Shijie（樊世杰）"
 description              : &description "personal description"
-url                      : https://fanshijie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# url                      : https://fanshijie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   # location         : "Earth"
   # employer         : "Red Brick University"
-  uri              : https://fanshijie.github.io # URL
+  uri              : "https://fanshijie.github.io" # URL
   email            : "fanshijie0524@163.com，fan_shijie888@163.com，2630075535@qq.com" 
 
   # Academic websites
